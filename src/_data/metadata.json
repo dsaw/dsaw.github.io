@@ -1,0 +1,20 @@
+{
+  "title": "That annoying Turing machine #2",
+  "url": "https://dsaw.github.io/",
+  "description": "Personal website about computation, mathematics & life",
+  "feed": {
+    "subtitle": "Personal website about computation, mathematics & life",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://dsaw.github.io/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://dsaw.github.io/feed/feed.json"
+  },
+  "author": {
+    "name": "Devesh Sawant",
+    "email": "devsaw115@gmail.com",
+    "url": "https://dsaw.github.io//about-me/"
+  }
+}
