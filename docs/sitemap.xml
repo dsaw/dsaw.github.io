@@ -23,61 +23,41 @@
   
   <url>
     <loc>https://dsaw.github.io/about/</loc>
-    <lastmod>2021-06-18</lastmod>
+    <lastmod>2021-07-03</lastmod>
   </url>
   
   <url>
     <loc>https://dsaw.github.io/posts/</loc>
-    <lastmod>2021-06-18</lastmod>
+    <lastmod>2021-07-03</lastmod>
   </url>
   
   <url>
     <loc>https://dsaw.github.io/</loc>
-    <lastmod>2021-06-18</lastmod>
+    <lastmod>2021-07-03</lastmod>
   </url>
   
   <url>
     <loc>https://dsaw.github.io/page-list/</loc>
-    <lastmod>2021-06-18</lastmod>
+    <lastmod>2021-07-03</lastmod>
   </url>
   
   <url>
     <loc>https://dsaw.github.io/tags/</loc>
-    <lastmod>2021-06-18</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dsaw.github.io/tags/another-tag/</loc>
-    <lastmod>2021-06-18</lastmod>
+    <lastmod>2021-07-03</lastmod>
   </url>
   
   <url>
     <loc>https://dsaw.github.io/tags/second-tag/</loc>
-    <lastmod>2021-06-18</lastmod>
+    <lastmod>2021-07-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dsaw.github.io/tags/another-tag/</loc>
+    <lastmod>2021-07-03</lastmod>
   </url>
   
   <url>
     <loc>https://dsaw.github.io/tags/number-2/</loc>
-    <lastmod>2021-06-18</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dsaw.github.io/src/_includes/layouts/base/</loc>
-    <lastmod>2021-06-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dsaw.github.io/src/_includes/layouts/home/</loc>
-    <lastmod>2021-06-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dsaw.github.io/src/_includes/layouts/post/</loc>
-    <lastmod>2021-06-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dsaw.github.io/src/_includes/postslist/</loc>
-    <lastmod>2021-06-26</lastmod>
+    <lastmod>2021-07-03</lastmod>
   </url>
 </urlset>
