@@ -7,4 +7,9 @@ eleventyNavigation:
   order: 2
 ---
 
-I am a person that writes stuff.
+A software engineer that works on web development nowadays. 
+
+<div> Enjoy exploring new topics and interested in compilers, maths, AI, puzzles, computer security (all of everything basically). In my free time, I like  running, origami, reading and buying books (more buying).
+</div>
+
+

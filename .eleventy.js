@@ -57,9 +57,10 @@ module.exports = function(eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
-  // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addWatchTarget("src");
+
+  eleventyConfig.addPassthroughCopy("src/img");
+  eleventyConfig.addPassthroughCopy("src/css");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
@@ -96,6 +97,7 @@ module.exports = function(eleventyConfig) {
     // e.g.: *.md, *.njk, *.html, *.liquid
     templateFormats: [
       "md",
+      "css",
       "njk",
       "html",
       "liquid"
@@ -113,8 +115,6 @@ module.exports = function(eleventyConfig) {
 
     // Optional (default is shown)
     pathPrefix: "/",
-    // -----------------------------------------------------------------
-
     // Pre-process *.md files with: (default: `liquid`)
     markdownTemplateEngine: "njk",
 

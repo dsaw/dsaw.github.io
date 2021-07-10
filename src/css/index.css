@@ -38,17 +38,34 @@ a[href]:visited {
   color: var(--navy);
 }
 main {
+  display: flex;
+  flex-direction: column;
   padding: 1rem;
-}
-main :first-child {
-  margin-top: 0;
+  padding-bottom: 4rem;
+  padding-top: 0;
 }
 
-header:after {
-  content: "";
-  display: table;
-  clear: both;
+header {
+  max-width: none;
+  width: 100%;
+  text-transform: capitalize;
+  text-transform: uppercase;
+  margin-bottom: 4rem;
 }
+
+.header-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 48.75rem;
+  padding: 1rem;
+  margin-top: 1rem;
+  border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
 table {
   margin: 1em 0;
 }
