@@ -37,6 +37,10 @@ a[href] {
 a[href]:visited {
   color: var(--navy);
 }
+
+.layout-wrapper {
+  
+}
 main {
   display: flex;
   flex-direction: column;
